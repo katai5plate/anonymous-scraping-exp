@@ -1,0 +1,23 @@
+{
+  "name": "anonymous-scraping-exp",
+  "version": "1.0.0",
+  "description": "匿名なIPでスクレイピングしてみるテスト",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katai5plate/anonymous-scraping-exp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katai5plate/anonymous-scraping-exp/issues"
+  },
+  "homepage": "https://github.com/katai5plate/anonymous-scraping-exp#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
